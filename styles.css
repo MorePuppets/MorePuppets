@@ -49,7 +49,7 @@
   }
   
   .menu a:hover {
-    color: #00FF00; /* Change color to lime on hover */
+    color: #0011ff; /* Change color to lime on hover */
     transform: scale(2); /* Increase size on hover */
   }
   
@@ -58,7 +58,6 @@
     text-shadow: none;
     background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
 
-    -webkit-text-fill-color: transparent;
   }
   
   .img-background {
